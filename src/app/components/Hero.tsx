@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React from "react";
 import Slider from "react-slick";
@@ -10,7 +10,7 @@ const Hero = () => {
         infinite: true,
         dots: true,
         slidesToShow: 1,
-        slideToScroll:1,
+        slideToScroll: 1,
         autoplay: true,
         pauseOnHover: false,
     };
