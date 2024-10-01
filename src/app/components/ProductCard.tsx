@@ -79,7 +79,7 @@ const ProductCard: React.FC<propsType> = ({
     <div className="px-4 border border-gray-200 rounded-xl max-w-[400px]">
       <div>
         <Image
-          className="w-full h-auto"
+          className="w-full h-full"
           src={img}
           width={200}
           height={3000}
